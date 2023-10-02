@@ -14,7 +14,7 @@ I am on the 2023-2024 job market.
 
 This website is being frequently updated.
 
-### References
+## References
 
 <style>
   .reference {
