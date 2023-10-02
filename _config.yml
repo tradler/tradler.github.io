@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+n# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tyler Radler"
   avatar           : "headshot.png"
-  bio              : "Job Market Candidate, Public Finance & Labor Economics"
+  bio              : "Job Market Candidate, Public Economics & Labor Economics"
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan, Ann Arbor"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
