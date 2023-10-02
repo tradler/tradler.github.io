@@ -14,7 +14,7 @@ author_profile: true
 ## Job market paper
 ***Child Disability, Family Labor Supply, and the Value of the SSI Program***
 
-Abstract being revised
+Draft coming soon!
 
 ## Work in progress
 ***In Sickness and In Health: Intrahousehold Behaviors and Disability Insurance***
