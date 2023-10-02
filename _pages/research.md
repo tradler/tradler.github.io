@@ -33,8 +33,3 @@ Abstract coming soon
 ***Using Payroll Processor Microdata to Measure Aggregate Labor Market Activity*** with Tomaz Cajner, Leland Crane, Ryan Decker, Adrian Hamins-Puertolas and Christopher Kurz
 
 ***Racial Gaps in Labor Market Outcomes in the Last Four Decades and over the Business Cycle*** with Tomaz Cajner, David Ratner and Ivan Vidangos
-
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
