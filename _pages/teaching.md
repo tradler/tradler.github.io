@@ -15,8 +15,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ## Graduate Student Instructor
 
 **Origins and Uses of Economic Data** _Winter 2023, University of Michigan_
+
 **American Industries** _Fall 2022, University of Michigan_
+
 **Intermediate Microeconomics** _Fall 2019, Spring 2020, University of Michigan_
+
 **Principles of Microeconomics** _Fall 2018, Spring 2019, University of Michigan_
 
 Teaching evaluations are available by request.
