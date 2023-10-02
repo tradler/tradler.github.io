@@ -18,12 +18,15 @@ Abstract being revised
 
 ## Work in progress
 ***In Sickness and In Health: Intrahousehold Behaviors and Disability Insurance***
+
 Abstract or draft coming soon
 
 ***Medical Schools, Physician Maldistribution, and Mortality*** (with Thomas Helgerman)
+
 Abstract coming soon
 
 ***Parental Resources and Major Choice*** (with Zsigmond Palvolgyi and Nikhil Rao)
+
 Abstract coming soon
 
 ## Pre-Dissertation Work
