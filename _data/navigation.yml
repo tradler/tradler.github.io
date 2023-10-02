@@ -4,13 +4,13 @@ main:
     url: /files/Child_SSI_JMP.pdf
 
   - title: "Research"
-    url: /research/    
+    url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-        
+    url: /teaching/
+
   - title: "CV"
     url: /files/Radler_CV.pdf
-    
+
   - title: "Other"
-    url: /markdown/
+    url: /other/
