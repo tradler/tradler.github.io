@@ -16,22 +16,36 @@ This website is being frequently updated.
 
 ### References
 
-<div style="display: inline-block; width: 30%;">
-  <strong>James R. Hines Jr. (Chair)</strong><br>
-  Department of Economics & Law School<br>
+<style>
+  .reference {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top; /* Align the top of each reference */
+    margin-right: 10px; /* Add some horizontal spacing between references */
+  }
+
+  .reference strong {
+    display: block; /* Make the names start on a new line */
+  }
+</style>
+
+<div class="reference">
+  <strong>James R. Hines Jr. (Chair)</strong>
+  Department of Economics <br>
+  & Law School<br>
   University of Michigan<br>
   <a href="mailto:jrhines@umich.edu">jrhines@umich.edu</a>
 </div>
 
-<div style="display: inline-block; width: 30%;">
-  <strong>John Bound</strong><br>
+<div class="reference">
+  <strong>John Bound</strong>
   Department of Economics<br>
   University of Michigan<br>
   <a href="mailto:jbound@umich.edu">jbound@umich.edu</a>
 </div>
 
-<div style="display: inline-block; width: 30%;">
-  <strong>Basit Zafar</strong><br>
+<div class="reference">
+  <strong>Basit Zafar</strong>
   Department of Economics<br>
   University of Michigan<br>
   <a href="mailto:basitak@gmail.com">basitak@gmail.com</a>
