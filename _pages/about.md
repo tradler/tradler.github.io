@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at the University of Michigan. I am an applied microeconomist, whose research focuses on public economics and labor economics.
+I am a PhD Candidate in Economics at the University of Michigan. I am an applied microeconomist, whose research focuses on public finance and labor economics.
 
 I am on the 2023-2024 job market.
 
