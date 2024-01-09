@@ -20,13 +20,9 @@ Abstract: The U.S. Supplemental Security Income (SSI) program transfers consider
 
 **In Sickness and In Health: Intrahousehold Behaviors and Disability Insurance**
 
-Draft coming soon!
-
 **Medical Schools, Physician Maldistribution, and Mortality**
 
 _with [Thomas Helgerman](https://www.thomashelgerman.com/)_
-
-Abstract coming soon!
 
 ## Work in progress
 
