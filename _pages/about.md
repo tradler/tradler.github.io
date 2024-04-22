@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate in Economics at the University of Michigan. I am an applied microeconomist, whose research focuses on public finance and labor economics.
 
-I am on the 2023-2024 job market.
+I will be joining Bates White as an Economist in the Fall of 2024.
 
 ## References
 
